@@ -1,1 +1,1 @@
-# Eaxm-javascript
+# Exam-javascript
